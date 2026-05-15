@@ -2,7 +2,7 @@
 
 A fully functional Battle Royale mod for Grand Theft Auto V, built in C# using ScriptHookV .NET. Written in 2020 by [roibot](https://github.com/roibot10) — solo, without AI assistance, and with zero Stack Overflow resources due to GTA V modding's legal gray area at the time. Forum threads, the ScriptHookV API headers, and the GTA V Native DB were the only references.
 
-> **Preserved as-is from 2020.** This repository exists as a portfolio artifact. The code reflects a real working project, not a cleaned-up retrospective. Comments, debug notifications, and rough edges are intentional — they're part of the story.
+> **Preserved as-is from 2020.** This repository exists as a portfolio artifact. The code reflects a real working project.
 
 ---
 
