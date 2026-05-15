@@ -1,8 +1,18 @@
 # GTAV-BattleRoyale
 
-A fully functional Battle Royale mod for Grand Theft Auto V, built in C# using ScriptHookV .NET. Written in 2020 by [@mrroibot](https://github.com/mrroibot) — solo, without AI assistance, and with zero Stack Overflow resources due to GTA V modding's legal gray area at the time. Forum threads, the ScriptHookV API headers, and the GTA V Native DB were the only references.
+A fully functional Battle Royale mod for Grand Theft Auto V, built in C# using ScriptHookV .NET. Written in 2020 by [roibot](https://github.com/roibot10) — solo, without AI assistance, and with zero Stack Overflow resources due to GTA V modding's legal gray area at the time. Forum threads, the ScriptHookV API headers, and the GTA V Native DB were the only references.
 
 > **Preserved as-is from 2020.** This repository exists as a portfolio artifact. The code reflects a real working project, not a cleaned-up retrospective. Comments, debug notifications, and rough edges are intentional — they're part of the story.
+
+---
+
+## Context
+
+I wrote this in 2020 while learning C#, less than a month into the language, coming from a Java background in school, and long before AI, not even Stack Overflow (GTA modding's legal gray area made code examples scarce). Resources were GTAForums threads, the ScriptHookV API headers, and the GTA V Native DB.
+
+I never finished it. Got a job offer and moved on. Found the code in 2026 and apparently it was more complete than I remembered.
+
+— Roi, 2026
 
 ---
 
@@ -147,13 +157,3 @@ This project is a personal portfolio artifact preserved for educational purposes
 Grand Theft Auto V and all related assets, trademarks, and intellectual property belong to Rockstar Games. This project is not affiliated with or endorsed by Rockstar Games.
 
 A legitimate purchased copy of GTA V is required to run this mod.
-
----
-
-## Context
-
-I wrote this in 2020 while learning C# — less than a month into the language, coming from a Java background in school. No AI tools. No Stack Overflow (GTA modding's legal gray area made code examples scarce). Resources were GTAForums threads, the ScriptHookV API headers, and the GTA V Native DB.
-
-I never finished it. Got a job offer and moved on. Found the code in 2026 and apparently it was more complete than I remembered.
-
-— Roi, 2026
